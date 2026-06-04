@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "eslint": "^9.39.4",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.6.0",
+    "typescript-eslint": "^8.60.0"
+  },
+  "dependencies": {
+    "jiti": "^2.7.0"
+  }
+}
